@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Õàáð / Èíòåðåñíûå ïóáëèêàöèè</title>
+<link>https://habr.com/</link>
+<description>
+<![CDATA[
+Èíòåðåñíûå ïóáëèêàöèè íà Õàáðå
+]]>
+</description>
+<language>ru</language>
+<managingEditor>editor@habr.com</managingEditor>
+<generator>habr.com</generator>
+<pubDate>Wed, 15 Aug 2018 18:33:38 GMT</pubDate>
+<lastBuildDate/>
+<image>
+<link>https://habr.com/</link>
+<url>https://habr.com/images/logo.png</url>
+<title>Õàáð</title>
+</image>
+<item>
+<title>
+<![CDATA[
+«ß áåñïîëåçíûé äóðàê è õî÷ó óâîëèòüñÿ» — 10 âîïðîñîâ ïðîãðàììèñòó, ïèëîòíûé âûïóñê
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420321/</guid>
+<link>https://habr.com/post/420321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420321</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/em/y3/ph/emy3phbmabvseg-cy7ndp9hkoc0.jpeg"><br>
+<br>
+Ïðèâåò, Õàáð!<br>
+<br>
+Ïîìíèòå <a href="https://hsto.org/webt/w7/ha/6f/w7ha6feuqofruj2kzfd753bxivy.jpeg">èñòîðèþ ïðî Ñòèâà Äæîáñà è Äåííèñà Ðèò÷è</a>? Íå õîòèì ñíîâà óñòðàèâàòü ñïîðû è ÷èòàòü ìîðàëè, íî ïðàâäà îñòàåòñÿ ïðàâäîé — òûñÿ÷è êðóòûõ òåõíàðåé ñèäÿò â òåíè, à èõ èñòîðèè çàïðÿòàíû â ÷óëàí.<br>
+<br>
+Ìû â ðåäàêöèè Õàáðà íàìåðåíû ýòî èñïðàâëÿòü. Îòíûíå áóäåì ðåãóëÿðíî áðàòü èíòåðâüþ ó ëþäåé, ïðî êîòîðûõ íå ïèøóò â ÑÌÈ è çà êîòîðûìè íå ãîíÿþòñÿ â ñîöñåòÿõ. Òàê ÷òî åñëè âàì åñòü ÷òî î ñåáå ðàññêàçàòü — ãîòîâüòåñü.<br>
+<br>
+×òîáû âû ïîíÿëè, êàê îíî áóäåò âûãëÿäåòü, íà÷íåì ñî ñâîåãî ïðèìåðà. Ïîä êàòîì 10 îáùèõ âîïðîñîâ, êîòîðûå ìû áóäåì çàäàâàòü âñåì. Äëÿ ïèëîòà íà íèõ îòâåòèë <a href="https://habr.com/users/fillpackart/" class="user_link">fillpackart</a>. (Â ýòîì ìåñÿöå ÿ áðàë âìåñòå ñ íèì íåñêîëüêî, êàæåòñÿ, íåïëîõèõ èíòåðâüþ: <a href="https://habr.com/post/417107/">ðàç</a>, <a href="https://habr.com/post/419381/">äâà</a>, <a href="https://habr.com/post/420229/">òðè</a>). Ïî÷èòàéòå, è åñëè õîòèòå ðàññêàçàòü î ñåáå òàêèì æå îáðàçîì, ïèøèòå ñîîáùåíèÿ ìíå èëè <a href="https://habr.com/users/baragol/" class="user_link">baragol</a>.<br>
+<br> <a href="https://habr.com/post/420321/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420321#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 17:19:26 GMT</pubDate>
+<dc:creator>arttom</dc:creator>
+<category>
+<![CDATA[
+Èíòåðâüþ
+]]>
+</category>
+<category>
+<![CDATA[
+10 âîïðîñîâ ïðîãðàììèñòó
+]]>
+</category>
+<category>
+</item>
+<item>
+<title>
+<![CDATA[
+GeekUniversity îòêðûâàåò íàáîð íà ôàêóëüòåò èñêóññòâåííîãî èíòåëëåêòà
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/419843/</guid>
+<link>https://habr.com/post/419843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=419843</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/tp/vr/6s/tpvr6sbnffndfjwefbmqnvtadva.jpeg"><br>
+<br>
+Â íàøåì îíëàéí-óíèâåðñèòåòå äëÿ ïðîãðàììèñòîâ îòêðûëñÿ íîâûé ôàêóëüòåò èñêóññòâåííîãî èíòåëëåêòà. Còóäåíòû âñåãî çà ïîëòîðà ãîäà ñìîãóò ïðîéòè ïóòü îò íîâè÷êà äî ïðîãðàììèñòà-èññëåäîâàòåëÿ (data scientist) óðîâíÿ middle. <a href="https://vk.cc/8nAbgS">GeekUniversity</a> — ñîâìåñòíûé îáðàçîâàòåëüíûé ïðîåêò Mail.Ru Group è GeekBrains ñ ãàðàíòèðîâàííûì òðóäîóñòðîéñòâîì.<br> <a href="https://habr.com/post/419843/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=419843#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 13:32:47 GMT</pubDate>
+<dc:creator>mary_arti</dc:creator>
+<category>
+<![CDATA[
+Ìàøèííîå îáó÷åíèå
+]]>
+</category>
+<category>
+<![CDATA[
+Êàðüåðà â IT-èíäóñòðèè
+]]>
+</category>
+<category>
+<![CDATA[
+Èñêóññòâåííûé èíòåëëåêò
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Mail.Ru Group
+]]>
+</category>
+<category>
+<![CDATA[
+mail.ru group
+]]>
+</category>
+<category>
+<![CDATA[
+geekbrains
+]]>
+</category>
+<category>
+<![CDATA[
+geekuniversity
+]]>
+</category>
+<category>
+<![CDATA[
+èñêóññòâåííûé èíòåëëåêò
+]]>
+</category>
+<category>
+<![CDATA[
+data scientist
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+MPRU, âûðó÷êà è êàê ýòî ñâÿçàíî ñ âûðó÷êîé è äèíàìèêîé êëèåíòñêîé áàçû
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420285/</guid>
+<link>https://habr.com/post/420285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420285</link>
+<description>
+<![CDATA[
+<p>Â ýòîé ñòàòüå äàâàéòå ïîñìîòðèì íà MRPU, ðàçáåðåìñÿ êàêèå åñòü îñîáåííîñòè åãî ïîäñ÷åòà è ÷òî îí íàì ìîæåò äàòü.</p><br>
+<p>MRPU — monthly revenue per unit, åæåìåñÿ÷íàÿ âûðó÷êà íà åäèíèöó. Ýòî øèðîêîå ïîíÿòèå âêëþ÷àþùåå â ñåáÿ è ñðåäíèé ÷åê, è ñðåäíþþ âûðó÷êó íà ïîëüçîâàòåëÿ/êëèåíòà/ïðîäàæó. Ãèáêîñòü ñëîâà unit ïîçâîëÿåò äàòü íóæíîå âàì îïðåäåëåíèå. </p><br>
+<p>Äëÿ ÷åãî íàì ýòî íóæíî? Âñÿ öåëü àíàëèçà ïðîäóêòà ñîñòîèò â òîì, ÷òîáû èçîëèðîâàòü ïðè÷èíû è âûÿâèòü ôàêòîðû, êîòîðîå âëèÿþò íà ôèíàíñîâûå ïîêàçàòåëè. Äèíàìèêà êëèåíòñêîé áàçû (<a href="https://habr.com/post/415727/">ñì. ñòàòüþ òóò</a>) îïðåäåëÿþò â îñíîâíîì ôàêòîðû ñâÿçàííûå ñ âàøåé ðàáîòîé ïî ïðèâëå÷åíèþ è óäåðæàíèþ. MRPU æå çàòðàãèâàåò âàøè öåíû, íàáîð óñëóã è ïîëíîòó ïðåäîñòàâëÿåìûõ ñåðâèñîâ. Õîòÿ âàø óñïåõ ïî ÷àñòè ïðèâëå÷åíèÿ çàâèñèò îò öåí è íàáîðà óñëóã, MRPU â íàøåì óðàâíåíèè âûðó÷êè îòâå÷àåò íåïîñðåäñòâåííî çà ñàìè äåíüãè. </p><br>
+<p>Ìû ìîæåì âàðüèðîâàòü ïîíÿòèå MRPU â çàâèñèìîñòè îò âàøåãî êîíòåêñòà. Èäåîëîãèÿ ýòîé ìåòðèêè:</p><br>
+<ul>
+<li>Ïåðèîä — Monthly</li>
+<li>Ïîêàçàòåëü — Revenue</li>
+<li>Çà — Per</li>
+<li>Åäèíèöó — Unit</li>
+</ul> <a href="https://habr.com/post/420285/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420285#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 11:01:47 GMT</pubDate>
+<dc:creator>Shmidtk</dc:creator>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïðîäóêòîì
+]]>
+</category>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïðîäàæàìè
+]]>
+</category>
+<category>
+<![CDATA[
+Áèçíåñ-ìîäåëè
+]]>
+</category>
+<category>
+<![CDATA[
+Àíàëèòèêà ìîáèëüíûõ ïðèëîæåíèé
+]]>
+</category>
+<category>
+<![CDATA[
+Growth Hacking
+]]>
+</category>
+<category>
+<![CDATA[]]>
+</category>
+<category>
+<![CDATA[
+ñðåäíèé ÷åê
+]]>
+</category>
+<category>
+<![CDATA[
+àíàëèç ïðîäàæ
+]]>
+</category>
+<category>
+<![CDATA[
+ìàðêåòèíã
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Ãëàâíûå êîíôåðåíöèè ïî èíòåðíåòó âåùåé â 2018-2019. Ðîññèÿ è ìèð
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420275/</guid>
+<link>https://habr.com/post/420275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420275</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/kf/8n/wv/kf8nwv9e7zgo1yx-lirn6qmmol4.jpeg"><br>
+<i>Linux Foundation Open IoT Summit. Ïîðòëåíä, 2018</i><br>
+<br>
+Â ïðåääâåðèè íàøåé ïÿòîé êîíôåðåíöèè «Èíòåðíåò âåùåé» ìû ñîñòàâèëè ñïèñîê íàèáîëåå ìàñøòàáíûõ ìåðîïðèÿòèé ïî IoT â Ðîññèè è â ìèðå. Ïðè ýòîì ìû îðèåíòèðîâàëèñü íà ðåéòèíãè <a href="https://blog.ptcu.com/iot-conferences-2018">PTC University</a>, <a href="https://www.hpe.com/us/en/insights/articles/14-top-iot-conferences-to-attend-in-2018-1712.html">Hewlett Packard Enterpise</a> è <a href="https://www.sam-solutions.com/blog/internet-of-things-conferences-2018-a-guide-to-the-top-iot-events/">Sam Solutions</a>. <br>
+<br>
+Íèæå – ñïèñîê ìåðîïðèÿòèé, êîòîðûå ïðîéäóò â Ðîññèè, Åâðîïå, ÑØÀ è Àçèè â áëèæàéøåå âðåìÿ. Âíóòðè êàæäîãî ðàçäåëà ñîáûòèÿ ðàñïîëîæåíû â õðîíîëîãè÷åñêîì ïîðÿäêå. <a href="https://habr.com/post/420275/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420275#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 10:53:30 GMT</pubDate>
+<dc:creator>Smile-Events</dc:creator>
+<category>
+<![CDATA[
+Êîíôåðåíöèè
+]]>
+</category>
+<category>
+<![CDATA[
+Èíòåðíåò âåùåé
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Smile-Expo
+]]>
+</category>
+<category>
+<![CDATA[
+smile-expo
+]]>
+</category>
+<category>
+<![CDATA[
+ñìàéë ýêñïî
+]]>
+</category>
+<category>
+<![CDATA[
+êîíôåðåíöèè
+]]>
+</category>
+<category>
+<![CDATA[
+êîíôåðåíöèè ïî èíòåðíåòó âåùåé
+]]>
+</category>
+<category>
+<![CDATA[
+èíòåðíåò âåùåé â ðîññèè
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Còðèì ñ íåñêîëüêèìè êàìåðàìè èç ïîäðó÷íûõ ìàòåðèàëîâ
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420037/</guid>
+<link>https://habr.com/post/420037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420037</link>
+<description>
+<![CDATA[
+<p>Âñ¸ íà÷àëîñü ñ òîãî, êàê ïðè ìíå ñ ïîìîùüþ <a href="https://obsproject.com/download">OBS Studio</a> è êàêîé-òî ïðîãðàììêè äëÿ àíèìàöèè îáîåâ ðàáî÷åãî ñòîëà ñäåëàëè èç ëîãîòèïà âèäåîëîãîòèï (êîòîðûé åùå è ïîä òåêóùóþ èãðàþùóþ ìóçûêó àíèìèðîâàëñÿ). Â òîò ìîìåíò ÿ ïîíÿë ÷òî OBS Studio ìîæåò ÍÀÌÍÎÃÎ áîëüøå, ÷åì ïðîñòî ñòðèìèòü èãðû. Ïîñëå áîëåå áëèçêîãî çíàêîìñòâà ñ OBS Studio, îíà ïðåòåíäóåò íà ìåñòî ñàìîé êðóòîé ïðîãðàììû, êîòîðóþ <a href="https://github.com/Himura2la/awesome-soft">ÿ êîãäà-ëèáî âñòðå÷àë</a>. </p><br>
+<p>Ìíå ïðåäñòîÿëî ñòðèìèòü íåáîëüøîé èâåíò äëÿ äðóçåé, íî ïîñêîëüêó ó ìåíÿ åñòü îáîðóäîâàíèå äëÿ õîðîøåãî çâóêà è æåëàíèå äåëàòü êðóòî, ÿ îçàäà÷èëñÿ îðãàíèçàöèåé ñòðèìà ñ îòäåëüíûì çâóêîì è íåñêîëüêèìè êàìåðàìè. Ñòðèì ïî ðàçíûì ïðè÷èíàì ïîëó÷èëñÿ òàêîé ñåáå, íî ïîñëå ýòîãî îïûòà, ÿ âðîäå áû ïðåäñòàâëÿþ êàê íàäî. È õî÷ó ïîäåëèòüñÿ. Âîò.</p><br>
+<p><img src="https://habrastorage.org/webt/n3/v1/yk/n3v1yk3isu110pqfjrr6qojtnbu.png"></p> <a href="https://habr.com/post/420037/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420037#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 08:44:45 GMT</pubDate>
+<dc:creator>Himura</dc:creator>
+<category>
+<![CDATA[
+Ñîôò
+]]>
+</category>
+<category>
+<![CDATA[
+Êîíôåðåíöèè
+]]>
+</category>
+<category>
+<![CDATA[
+Âèäåîòåõíèêà
+]]>
+</category>
+<category>
+<![CDATA[
+Open source
+]]>
+</category>
+<category>
+<![CDATA[
+IPTV
+]]>
+</category>
+<category>
+<![CDATA[
+obs studio
+]]>
+</category>
+<category>
+<![CDATA[
+video streaming
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+[Èç ïåñî÷íèöû] ICO 2.0 è òîêåíèçàöèÿ áèçíåñîâ
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420171/</guid>
+<link>https://habr.com/post/420171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420171</link>
+<description>
+<![CDATA[
+Ïðèâåò, õàáðàâ÷àíå! ß — ïðîãðàììèñò ñ 15-ëåòíèì îïûòîì ðàçðàáîòêè. Â ñâîå âðåìÿ óäàëîñü ïîðàáîòàòü êàê íàä ñèñòåìàìè ó÷åòà, òàê è íàä ôèíàíñîâûìè èíñòðóìåíòàìè è âåá-ñàéòàìè. ß çàñòàë ðàçðàáîò÷èêîì òå âðåìåíà, êîãäà OpenSource åùå íàçûâàëè áåñïîëåçíîé òðàòîé âðåìåíè è íàáëþäàë ñ ñàìîãî íà÷àëà åãî ýâîëþöèþ â êëþ÷åâîé äâèãàòåëü òåõíîëîãèé.<br>
+<br>
+Ñåé÷àñ î÷åíü âûñîêèé õàéï âîêðóã êðèïòîâàëþò è èíâåñòèðîâàíèÿ â ICO. Çíàÿ êàê ïîâëèÿëè îòêðûòûå òåõíîëîãèè íà ðàçâèòèå ýòîé èíäóñòðèè, ìû ñ ìîèìè êîëëåãàìè ñ òåêóùåé ðàáîòû ñ÷èòàåì, ÷òî ICO — ñëåäóþùèé âèòîê â èíäóñòðèè ôèíàíñèðîâàíèÿ. Ïðè äîëæíîì ðàçâèòèè è âíèìàíèè, ýòà òåõíîëîãèÿ îáëåã÷èò äîñòóï ê ôèíàíñèðîâàíèþ ìåëêèì êîìïàíèÿì è ïåðñïåêòèâíûì ïðîåêòàì, áëàãîòâîðèòåëüíûì è íåêîììåð÷åñêèì îðãàíèçàöèÿì, êîòîðûå íå èíòåðåñíû êðóïíûì âåí÷óðíûì ôîíäàì è èíñòèòóöèîíàëüíûì èíâåñòîðàì. Ýòî ôèíàíñèðîâàíèå áóäåò ãëîòêîì ñâåæåãî âîçäóõà íîâûì òåõíîëîãèÿì, ñìîæåò îáúåäèíèòü âîçìîæíîñòè êðàóäôàíäèíãà è âåí÷óðíûõ ôîíäîâ, êàê ýòî áûëî â ñëó÷àå ñ Microsoft, Google è OpenSource.<br>
+<br>
+Ïîÿâèëèñü èäåÿ è æåëàíèå ðåàëèçîâàòü ïðîåêò, êîòîðûé ñìîæåò óïðîñòèòü ïðîöåäóðó äîñòóïà ê ICO êîìïàíèÿì íå èç ÈÒ è ôèíòåê èíäóñòðèé, ïîâûñèòü áåçîïàñíîñòü âëîæåíèé â ýòè ïðîåêòû è, òåì ñàìûì, ïîääåðæàòü íîâûé âèòîê ðàçâèòèÿ òåõíîëîãèé ñâîèìè ñèëàìè íà ñòîëüêî, íà ñêîëüêî ýòî áóäåò âîçìîæíî.<br>
+<br>
+ß ïóáëèêóþ ÷àñòü èç äîêóìåíòà, â êîòîðîì ìû îáñóæäàåì è çàïèñûâàåì âñå ðèñêè èíâåñòèöèé è âîçìîæíîñòè áîðüáû ñ íèìè, îñìûñëåííî óáèðàÿ èç ýòîãî îòðûâêà íóäíûå ðàññóæäåíèÿ ïî ïîâîäó èíòåðôåéñà, ìîíåòèçàöèè è ïðî÷èõ íåâàæíûõ ìåëî÷åé.<br> <a href="https://habr.com/post/420171/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420171#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 10:47:02 GMT</pubDate>
+<dc:creator>insane-jo</dc:creator>
+<category>
+<![CDATA[
+Êðèïòîâàëþòû
+]]>
+</category>
+<category>
+<![CDATA[
+Äåöåíòðàëèçîâàííûå ñåòè
+]]>
+</category>
+<category>ico</category>
+<category>òîêåíû</category>
+<category>êðèïòîâàëþòû</category>
+<category>èíâåñòèðîâàíèå</category>
+</item>
+<item>
+<title>
+<![CDATA[
+[Èç ïåñî÷íèöû] Vanessa-Automation — èíñòðóìåíò àâòîäîêóìåíòèðîâàíèÿ ïðèêëàäíûõ ðåøåíèé íà ïëàòôîðìå «1Ñ: Ïðåäïðèÿòèå». Êèíî è BDD
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420175/</guid>
+<link>https://habr.com/post/420175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420175</link>
+<description>
+<![CDATA[
+<h1 id="chto-eto-i-dlya-chego-nado">×òî ýòî è äëÿ ÷åãî íàäî</h1><br/>
+<p><img src="https://imageshack.com/a/img923/4036/GNstEc.jpg" alt="Cinema" title="Cinema"/></p><br/>
+<p>Ìåíÿ íå èíòåðåñóþò èñòîðèè, êîòîðûå îñòàâëÿþò çðèòåëÿ áåçðàçëè÷íûì. ß õî÷ó, ÷òîáû âûõîäÿ èç êèíîòåàòðà ÷åëîâåê äóìàë: «×åðò âîçüìè, ìíå íóæíî âûïèòü». (ñ) Êèëëèàí Ì¸ðôè<br/>
+Òàê, ÷òî ýòî çíà÷èò Êèíî è BDD?! Äîáðî ïîæàëîâàòü ïîä êàò. </p> <a href="https://habr.com/post/420175/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420175#habracut">×èòàòü äàëüøå &rarr;</a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 11:06:21 GMT</pubDate>
+<dc:creator>hawk911</dc:creator>
+<category>
+<![CDATA[
+Òåñòèðîâàíèå IT-ñèñòåì
+]]>
+</category>
+<category>BDD</category>
+<category>TDD</category>
+<category>Àâòîäîêóìåíòàöèÿ</category>
+<category>1ñ</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Íîâûå âîçìîæíîñòè èíòåðíåò òîðãîâëè
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420077/</guid>
+<link>https://habr.com/post/420077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420077</link>
+<description>
+<![CDATA[
+<h2>Âåäåíèå</h2><br>
+Â ýòîé ñòàòüå ÿ õî÷ó ðàññêàçàòü îá îäíîì óëó÷øåíèè, êîòîðîå òåõíè÷åñêè íå î÷åíü ñëîæíî, íî, ÿ äóìàþ, î÷åíü ïîëåçíî. Èäåÿ â òîì, ÷òîáû ïðè ïðîäàæå ÷åðåç èíòåðíåò, ìîæíî áûëî çàäàòü àëãîðèòì èçìåíåíèÿ öåíû íà òîâàð. Î òîì, êàê ÿ ê íåé ïðèø¸ë è ÷òî ñäåëàë äëÿ å¸ ðåàëèçàöèè, áóäåò ýòà ñòàòüÿ.<br> <a href="https://habr.com/post/420077/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420077#habracut">Âàø òåêñò</a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 11:06:25 GMT</pubDate>
+<dc:creator>alex_29</dc:creator>
+<category>
+<![CDATA[
+Ôèíàíñû â IT
+]]>
+</category>
+<category>
+<![CDATA[
+Ðàçðàáîòêà ïîä e-commerce
+]]>
+</category>
+<category>
+<![CDATA[
+Ðàçâèòèå ñòàðòàïà
+]]>
+</category>
+<category>
+<![CDATA[
+òîðãîâëÿ
+]]>
+</category>
+<category>
+<![CDATA[
+ïðîäàæè
+]]>
+</category>
+<category>
+<![CDATA[
+èíòåðíåò
+]]>
+</category>
+<category>
+<![CDATA[
+c#
+]]>
+</category>
+<category>
+<![CDATA[
+.net
+]]>
+</category>
+<category>
+<![CDATA[
+javascript
+]]>
+</category>
+<category>
+<![CDATA[
+jqury
+]]>
+</category>
+<category>
+<![CDATA[
+google maps api
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+[recovery mode] Êàêèå ñìàðòôîíû Sony Xperia ïîëó÷àò Android 9.0 Pie è êîãäà áóäåò äîñòóïíî îáíîâëåíèå
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420181/</guid>
+<link>https://habr.com/post/420181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420181</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/5y/rb/0c/5yrb0chpq8tmdcxkudd0l1yxcbw.jpeg"><br>
+<br>
+Ôèíàëüíàÿ âåðñèÿ Android 9.0 ïîä íàçâàíèåì Pie âûøëà 6 àâãóñòà 2018 ãîäà äëÿ ñìàðòôîíîâ ñåðèè Google Pixel è Essential Phone. Ñ ýòîãî ìîìåíòà ïðîèçâîäèòåëè íà÷àëè îáúÿâëÿòü äàòû ðåëèçà íîâîé îïåðàöèîííîé ñèñòåìû äëÿ ñâîèõ óñòðîéñòâ. Êîìïàíèÿ Sony ñîîáùèëà, ÷òî â ïåðâóþ âîëíó ñìàðòôîíîâ, äëÿ êîòîðûõ áóäåò âûïóùåí Android 9.0 Pie, ïîïàäóò øåñòü ôëàãìàíîâ ìîäåëüíîãî ðÿäà 2017-2018 ãîäà. <a href="https://habr.com/post/420181/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420181#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 11:34:21 GMT</pubDate>
+<dc:creator>SonyMobile</dc:creator>
+<category>
+<![CDATA[
+Ñìàðòôîíû
+]]>
+</category>
+<category>
+<![CDATA[
+Ãàäæåòû
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Sony Mobile Communications
+]]>
+</category>
+<category>
+<![CDATA[
+Sony
+]]>
+</category>
+<category>
+<![CDATA[
+Xperia
+]]>
+</category>
+<category>
+<![CDATA[
+Android 9.0
+]]>
+</category>
+<category>
+<![CDATA[
+Ñìàðòôîíû
+]]>
+</category>
+<category>
+<![CDATA[
+Ïðîøèâêà
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Ñèíãàïóðñêàÿ äèàãíîñòè÷åñêàÿ ïàíåëü ñòàðåíèÿ
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420259/</guid>
+<link>https://habr.com/post/420259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420259</link>
+<description>
+<![CDATA[
+Òàê êàê çàäà÷à äèàãíîñòèêè ñòàðåíèÿ — öåíòðàëüíàÿ äëÿ èäåè çàìåäëåíèÿ ñòàðåíèÿ, òî ìû àíàëèçèðóåì âñå ïîäõîäû, êîòîðûå ðåàëèçóþòñÿ â ìèðå ïî äàííîé ïðîáëåìàòèòèêå. Ìû õîòèì ðàçðàáîòàòü íàèëó÷øóþ äèàãíîñòè÷åñêóþ ñèñòåìó ñòàðåíèÿ, ÷òîáû â ïîñëåäñòâèè îöåíèâàòü êà÷åñòâî èíòåðâåíöèé, íàïðàâëåííûõ íà óâåëè÷åíèå ïðîäîëæèòåëüíîñòè æèçíè.<br>
+<br>
+6 àâãóñòå 2018 ã. Îïóáëèêîâàíî èññëåäîâàíèå â æóðíàëå The Journals of Gerontology ñòàòüÿ «Áèîìàðêåðû, ïðîãíîçèðóþùèå ñìåðòü îò âñåõ ïðè÷èí â òå÷åíèè 10 ëåò». <br>
+<br>
+Áûëî ïðîâåäåíî èññëåäîâàíèå ïî îïðåäåëåíèþ ýôôåêòèâíûõ áèîìàðêåðîâ, ñâÿçàííûõ ñ îáùåé ñìåðòíîñòüþ îò âñåõ ïðè÷èí. Â êà÷åñòâå îñíîâû áûë ðàññìîòðåí øèðîêèé ñïåêòð àíàëèòîâ, ñâÿçàííûõ ñ øåñòüþ îñíîâíûìè ôèçèîëîãè÷åñêèìè ôóíêöèÿìè: <br>
+<br>
+<ol>
+<li>öèòîêèíû, õåìîêèíû è ôàêòîðû ðîñòà; </li>
+<li>ðåãóëÿòîðû ìåòàáîëèçìà ãëþêîçû è àäèïîêèíîâ; </li>
+<li>ìîëåêóëû àäãåçèè; </li>
+<li>îòâåò îñòðîé ôàçû (âîñïàëåíèå); </li>
+<li>ïàòîãåí-ñïåöèôè÷åñêèå àíòèòåëà; </li>
+<li>ðåìîäåëèðîâàíèå êîñòíîé òêàíè. </li>
+</ol><br> <a href="https://habr.com/post/420259/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420259#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 11:04:39 GMT</pubDate>
+<dc:creator>Batin</dc:creator>
+<category>
+<![CDATA[
+Íàó÷íî-ïîïóëÿðíîå
+]]>
+</category>
+<category>
+<![CDATA[
+Çäîðîâüå ãèêà
+]]>
+</category>
+<category>
+<![CDATA[
+áîðüáà ñî ñòàðåíèåì
+]]>
+</category>
+<category>
+<![CDATA[
+äèàãíîñòèêà ñòàðåíèÿ
+]]>
+</category>
+<category>
+<![CDATA[
+òðàíñãóìàíèçì
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Spectre è Meltdown áîëüøå íå ñàìûå îïàñíûå àòàêè íà CPU Intel. Èññëåäîâàòåëè ñîîáùèëè îá óÿçâèìîñòè Foreshadow
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420291/</guid>
+<link>https://habr.com/post/420291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420291</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/cw/5n/x0/cw5nx0qwwy97gjfut3oqfdtss-k.png"><br>
+<br>
+Â íà÷àëå ýòîãî ãîäà èíôîðìàöèîííîå ïðîñòðàíñòâî ïîòðÿñëè íîâîñòè î Spectre è Meltdown — äâóõ óÿçâèìîñòÿõ, èñïîëüçóþùèõ ñïåêóëÿòèâíîå èñïîëíåíèå êîäà äëÿ ïîëó÷åíèÿ äîñòóïà ê ïàìÿòè (<i>ñòàòüè è ïåðåâîäû íà ýòó òåìó íà Õàáðå: <a href="https://habr.com/post/346026/">0</a>, <a href="https://geektimes.ru/post/297029/">1</a>, <a href="https://geektimes.ru/post/297031/">2</a>, <a href="https://habr.com/post/409343/">3</a>, <a href="https://habr.com/company/pochtoy/blog/409367/">4</a>, <a href="https://habr.com/company/ua-hosting/blog/347254/">5</a>, <a href="https://habr.com/post/374171/">6</a>, <a href="https://habr.com/post/358478/">7</a>, <a href="https://habr.com/company/crossover/blog/416205/">8</a> è â ïîèñêå ìîæíî íàéòè åùå äåñÿòîê äðóãèõ</i>). Ïðèìåðíî â òîæå âðåìÿ, êîãäà òåõíè÷åñêîå ñîîáùåñòâî àêòèâíî îáñóæäàëî ñíèæåíèå ïðîèçâîäèòåëüíîñòè ïðîöåññîðîâ Intel è ïðîáëåìû àðõèòåêòóðû ñîâðåìåííûõ ïðîöåññîðîâ â öåëîì, êîòîðûå è ïîçâîëÿþò ýêñïëóàòàöèþ ïîäîáíûõ äûð, äâå ãðóïïû èññëåäîâàòåëåé íåçàâèñèìî äðóã îò äðóãà ñòàëè âíèìàòåëüíåå èññëåäîâàòü âîïðîñ ñïåêóëÿòèâíîãî èñïîëíåíèÿ êîäà íà ïðîöåññîðàõ Intel. <br>
+<br>
+Êàê èòîã, îáå ãðóïïû ïðèøëè ê òîìó, ÷òî èñïîëüçîâàíèå ýòîãî âåêòîðà àòàêè ïîçâîëÿåò íå òîëüêî ïîëó÷èòü äîñòóï ê êýøó ïðîöåññîðà, íî è ñ÷èòûâàòü/èçìåíÿòü ñîäåðæèìîå çàùèùåííûõ îáëàñòåé Intel SGX (<a href="https://software.intel.com/ru-ru/sgx">1</a>, <a href="https://en.wikipedia.org/wiki/Software_Guard_Extensions">2</a>), â ðàñøèôðîâêå — Intel Software Guard Extensions. Òàêèì îáðàçîì åùå áîëåå ñåðüåçíîé àòàêå ïîäâåðæåíû íîâåéøèå ÷èïû îò Intel íà àðõèòåêòóðàõ <a href="https://ru.wikipedia.org/wiki/Skylake">Sky Lake</a> (øåñòîå ïîêîëåíèå) è <a href="https://ru.wikipedia.org/wiki/Kaby_Lake">Kaby Lake</a> (ñåäüìîå è âîñüìîå ïîêîëåíèå). È âñå áûëî áû íå òàê ïå÷àëüíî, åñëè áû SGX èñïîëüçîâàëàñü òîëüêî ñèñòåìîé, íî ê ýòèì îáëàñòÿì îáðàùàþòñÿ è ïîëüçîâàòåëüñêèå ïðèëîæåíèÿ. <br> <a href="https://habr.com/post/420291/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420291#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 11:27:38 GMT</pubDate>
+<dc:creator>Crossover</dc:creator>
+<category>
+<![CDATA[
+Ïðîöåññîðû
+]]>
+</category>
+<category>
+<![CDATA[
+Èíôîðìàöèîííàÿ áåçîïàñíîñòü
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Crossover
+]]>
+</category>
+<category>
+<![CDATA[
+Foreshadow
+]]>
+</category>
+<category>
+<![CDATA[
+spectre
+]]>
+</category>
+<category>
+<![CDATA[
+meltdown
+]]>
+</category>
+<category>
+<![CDATA[
+èíôîðìàöèîííàÿ áåçîïàñíîñòü
+]]>
+</category>
+<category>
+<![CDATA[
+àòàêà
+]]>
+</category>
+<category>
+<![CDATA[
+intel
+]]>
+</category>
+<category>
+<![CDATA[
+SGX
+]]>
+</category>
+<category>
+<![CDATA[
+ñïåêóëÿòèâíîå èñïîëíåíèå êîäà
+]]>
+</category>
+<category>
+<![CDATA[
+óÿçâèìîñòü
+]]>
+</category>
+<category>
+<![CDATA[
+crossover
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Êàê îòêðûòûå API áàíêîâ ìåíÿþò ôèíàíñîâûé ìèð
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420253/</guid>
+<link>https://habr.com/post/420253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420253</link>
+<description>
+<![CDATA[
+<i>Ôèíàíñîâàÿ ñôåðà ïðåòåðïåâàåò öèôðîâóþ ðåâîëþöèþ. Êîíñåðâàòèâíûå áàíêè ñëåäóþò ñîâðåìåííûì âåÿíèÿì è íà÷èíàþò ïðåäîñòàâëÿòü 3-èì ëèöàì èíôîðìàöèþ, êîòîðàÿ ðàíüøå ñ÷èòàëàñü áàíêîâñêîé òàéíîé. Ïî÷åìó ýòî ïðîèñõîäèò, êîìó è çà÷åì ýòî íóæíî – ðàçáåðåìñÿ â ýòîé ñòàòüå.</i><br>
+<br>
+<h2>Ðàñêðûòèå áàíêîâñêèõ äàííûõ</h2><br>
+Òðåíä çàðîäèëñÿ â Åâðîïå, òàê, íàïðèìåð, â Ãåðìàíèè ñ 2010 ãîäà ðàçâèâàåòñÿ Open Bank Project – ïðîåêò, ïîääåðæèâàþùèé ðàñêðûòèå áàíêîâñêèõ äàííûõ è ïîëüçóþùèéñÿ ïîääåðæêîé êðóïíåéøèõ áàíêîâ ñòðàíû.<br>
+<br>
+Â Âåëèêîáðèòàíèè â ñåíòÿáðå 2015 ãîäà ïðè ïîääåðæêå îðãàíîâ ãîñóäàðñòâåííîé âëàñòè áûëà âûäâèíóòà èíèöèàòèâà Open Banking Standard, êîòîðàÿ íàïðàâëåíà íà ïîâûøåíèå êîíêóðåíöèè è äîñòóïíîñòè óñëóã íà ôèíàíñîâîì ðûíêå. Ñîãëàñíî èíèöèàòèâå, áàíêè äîëæíû ïðåäîñòàâèòü 3-èì ëèöàì (ò.í. ôèíàíñîâî-òåõíè÷åñêèì êîìïàíèÿì) äàííûå î áàëàíñå êëèåíòîâ è äîñòóï ê èõ ðàñ÷åòíûì ñ÷åòàì. Ïðèìåíåíèå ïðèíöèïà îòêðûòûõ áàíêîâñêèõ äàííûõ ñòàëî îáÿçàòåëüíûì äëÿ 9 êðóïíûõ áàíêîâ Âåëèêîáðèòàíèè, êîòîðûå îáñëóæèâàþò áîëåå 80% ãðàæäàí ñòðàíû.<br> <a href="https://habr.com/post/420253/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420253#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 06:39:02 GMT</pubDate>
+<dc:creator>Wellsoft</dc:creator>
+<category>
+<![CDATA[
+Ôèíàíñû â IT
+]]>
+</category>
+<category>
+<![CDATA[
+Ïëàòåæíûå ñèñòåìû
+]]>
+</category>
+<category>
+<![CDATA[
+Îòêðûòûå äàííûå
+]]>
+</category>
+<category>
+<![CDATA[
+API
+]]>
+</category>
+<category>
+<![CDATA[
+api
+]]>
+</category>
+<category>
+<![CDATA[
+api-èíòåðôåéñû
+]]>
+</category>
+<category>
+<![CDATA[
+áàíêîâñêèå òåõíîëîãèè
+]]>
+</category>
+<category>
+<![CDATA[
+áàíêîâñêèå ïðèëîæåíèÿ
+]]>
+</category>
+<category>
+<![CDATA[
+ôèíòåõ
+]]>
+</category>
+<category>
+<![CDATA[
+api-áàíêèíã
+]]>
+</category>
+<category>
+<![CDATA[
+open bank
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+[Ïåðåâîä] Ïåðåîïðåäåëåíèå Equals è GetHashCode. À îíî íàäî?
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/418515/</guid>
+<link>https://habr.com/post/418515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=418515</link>
+<description>
+<![CDATA[
+Åñëè âû çíàêîìû ñ C#, òî, ñêîðåå âñåãî, çíàåòå, ÷òî íåîáõîäèìî âñåãäà ïåðåîïðåäåëÿòü <code>Equals</code>, à òàêæå <code>GetHashCode</code>, ÷òîáû èçáåæàòü ñíèæåíèÿ ïðîèçâîäèòåëüíîñòè. Íî ÷òî áóäåò, åñëè ýòîãî íå ñäåëàòü? Ñåãîäíÿ ñðàâíèì ïðîèçâîäèòåëüíîñòü ïðè äâóõ âàðèàíòàõ íàñòðîéêè è ðàññìîòðèì èíñòðóìåíòû, ïîìîãàþùèå èçáåãàòü îøèáîê.<br>
+<br>
+<img src="https://habrastorage.org/webt/w9/iq/7g/w9iq7gen1fjdvh3j6jcxai470ec.jpeg"> <a href="https://habr.com/post/418515/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=418515#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 07:15:02 GMT</pubDate>
+<dc:creator>sahsAGU</dc:creator>
+<category>
+<![CDATA[
+Ïðîãðàììèðîâàíèå
+]]>
+</category>
+<category>
+<![CDATA[
+Âûñîêàÿ ïðîèçâîäèòåëüíîñòü
+]]>
+</category>
+<category>
+<![CDATA[
+C#
+]]>
+</category>
+<category>
+<![CDATA[
+.NET
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Microsoft
+]]>
+</category>
+<category>microsoft</category>
+<category>Equals</category>
+<category>GetHashCode</category>
+<category>struct</category>
+<category>dotnet</category>
+<category>.net core</category>
+<category>clr</category>
+<category>enum</category>
+<category>ValueType</category>
+<category>ïðîèçâîäèòåëüíîñòü</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Îáçîð äîñòóïíîãî áîëüøîãî 3D-ïðèíòåðà WANHAO D9
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420213/</guid>
+<link>https://habr.com/post/420213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420213</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/wq/wl/dz/wqwldzy4hypnfbpag11ks_tj76o.jpeg"><br>
+<br>
+Çäðàâñòâóéòå!<br>
+ <br>
+Ðàññêàçûâàåì î ñâîéñòâàõ 3D-ïðèíòåðà <a href="http://top3dshop.ru/kupit-3d-printer/wanhao-duplicator-d9-300.html">D9/300</a> êîìïàíèè Wanhao. Ýòî íàñòîëüíûé FDM ïðèíòåð ñ îáëàñòüþ ïå÷àòè 300õ300õ400 ìì.<br> <a href="https://habr.com/post/420213/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420213#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 07:19:44 GMT</pubDate>
+<dc:creator>Top3DShop</dc:creator>
+<category>
+<![CDATA[
+3D-ïðèíòåðû
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Top 3D Shop
+]]>
+</category>
+<category>
+<![CDATA[
+3d-ïå÷àòü
+]]>
+</category>
+<category>
+<![CDATA[
+3d-ïðèíòåð
+]]>
+</category>
+<category>
+<![CDATA[
+wanhao
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Êîðïîðàòèâíîå îáùåíèå çàñòàâëÿåò óâîëèòüñÿ èëè çàòÿãèâàåò â ïðîåêò êàê èãðà?
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/415439/</guid>
+<link>https://habr.com/post/415439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=415439</link>
+<description>
+<![CDATA[
+Àë¸øà èãðàë â WoW ãîäàìè. Èãðà ìåøàëà æèçíè, íî áðîñèòü áûëî íåâîçìîæíî: óñèëèé âîëè îêàçàëîñü íåäîñòàòî÷íî, à âñå ïîïûòêè îáìàíóòü ñåáÿ ñ ïîìîùüþ ñìåíû ïàðîëÿ è óäàëåíèÿ àêêàóíòà ëåãêî ïðåñåêàëèñü äðóæåëþáíîé òåõïîääåðæêîé Blizzard. <br>
+<br>
+Îêàçàëîñü, ÷òî ëó÷øèé ñïîñîá áðîñèòü èãðó — ïðîäîëæèòü èãðàòü â íå¸, íî íèêîãäà áîëüøå íå èãðàòü ñ îäíîé è òîé æå êîìàíäîé. Ïîòîìó ÷òî âåñü êàéô îò èãðû — â ñûãðàííîé êîìàíäå, êîòîðàÿ óìååò íå òîëüêî íóæíûå êíîïêè íàæèìàòü, íî è îáùàòüñÿ ìåæäó ñîáîé. Áåç óìåíèÿ ïîñòîÿííî îáñóæäàòü ïðîèñõîäÿùåå è ñîãëàñîâûâàòü äåéñòâèÿ ìåæäó ñîáîé âûèãðûâàòü ïðàêòè÷åñêè íåâîçìîæíî. À áåç ïîáåä ïðîïàäàåò óäîâîëüñòâèå îò èãðû.<br>
+<br>
+<img src="https://habrastorage.org/webt/1b/om/dk/1bomdk90qkssw9ucb68ok0w5-ya.jpeg"><br>
+<br>
+ß ðàáîòàþ â êîìàíäå <a href="https://yougile.com/">YouGile</a> — ýòî òàñê òðåêåð è êîðïîðàòèâíûé ÷àò â îäíîì ïðîäóêòå. Â ïðîöåññå ðàáîòû ìû ðàññìîòðåëè ìíîæåñòâî ñèñòåì è èçó÷èëè êó÷ó ìàòåðèàëîâ ïðî îáùåíèå êîìàíä.<br>
+<br>
+Ïîñëå êàòà — ñàìûå èíòåðåñíûå âûäåðæêè, îáçîð ñèñòåì äëÿ îáùåíèÿ, ñðàâíåíèå ïîäõîäîâ ê îáñóæäåíèþ çàäà÷, à òàêæå <b>ïîïûòêà îòâåòèòü íà âîïðîñ: “Êàêîå îáùåíèå äåëàåò êîìàíäû ñïëî÷åííåé, à êàêîå ðàçâàëèâàåò?”</b><br> <a href="https://habr.com/post/415439/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=415439#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 07:31:12 GMT</pubDate>
+<dc:creator>nClear</dc:creator>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïðîåêòàìè
+]]>
+</category>
+<category>
+<![CDATA[
+Ðàçâèòèå ñòàðòàïà
+]]>
+</category>
+<category>
+<![CDATA[
+Agile
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè YouGile
+]]>
+</category>
+<category>
+<![CDATA[
+yougile
+]]>
+</category>
+<category>
+<![CDATA[
+óïðàâëåíèå ïðîåêòàìè
+]]>
+</category>
+<category>
+<![CDATA[
+èññëåäîâàíèÿ ïîëüçîâàòåëåé
+]]>
+</category>
+<category>
+<![CDATA[
+agile
+]]>
+</category>
+<category>
+<![CDATA[
+ñòàðòàïû
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Êîíñîëü, ñâèò÷è è ìíîãî êîôå: îäèí äåíü èç æèçíè VDS õîñòèíãà
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420215/</guid>
+<link>https://habr.com/post/420215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420215</link>
+<description>
+<![CDATA[
+Óëèöà Çàñòàâñêàÿ. Âõîäèì â áèçíåñ-öåíòð “ÌåãàÏàðê”, îõðàíà, ëèôò, æìåì íà êíîïêó — 8 ýòàæ. Ïåðâîå, ÷òî íàñ âñòðå÷àåò êàæäîå óòðî, — ÿðêî-çåëåíûé ìîõ è âíóøèòåëüíûõ ðàçìåðîâ ëîãîòèï õîñòèíãà. Íà ÷àñàõ 8:45, ñêîðî íà÷íåòñÿ íîâûé ðàáî÷èé äåíü îôèñà, íà êóõíå øóìíî, êîëëåãè ñïåøàò íà ñâîè ìåñòà. <br>
+<br>
+1500 êâàäðàòíûõ ìåòðîâ, 153 ÷åëîâåêà âíåäðÿþò ôè÷è, ðàçðàáàòûâàþò, àäìèíèñòðèðóþò, ðåêëàìèðóþò è ñîâåðøåíñòâóþò ïðîäóêò, êîòîðûé Timeweb âûáðàë ñòðàòåãè÷åñêèì ïðèîðèòåòîì â ýòîì ãîäó — âèðòóàëüíûå âûäåëåííûå ñåðâåðû. <br>
+<br>
+Ïðîøëî ïî÷òè 2 ãîäà ñ ìîìåíòà ïåðâîãî ðåëèçà îáíîâëåííîãî ïðîäóêòà — <a href="https://timeweb.com/ru/services/vds/?utm_source=habr.com&amp;utm_medium=smo&amp;utm_campaign=15.08.18">VDS Evo</a> íà íàøåì ñàéòå Timeweb.com. Ìû óñïåëè ïåðåéòè ñ ãèïåðâèçîðà XEN íà KVM, óëó÷øèòü æåëåçî ïîä êàïîòîì, ñîçäàòü íåäîðîãèå òàðèôû è ìîáèëüíîå ïðèëîæåíèå, ñîçäàòü îáíîâëåííóþ ñîáñòâåííóþ ïàíåëü óïðàâëåíèÿ è… âåðíóòüñÿ íà Õàáð.<br>
+<br>
+Ñåãîäíÿ ìû çàãëÿíåì â êàæäûé êàáèíåò â íàøåì îôèñå, ÷òîáû ðàññêàçàòü î ðàáîòå íàä VDS â ðàçðåçå îäíîãî äíÿ. Íàëèâàéòå êîôå, ïîéäåìòå ñ íàìè!<br>
+<br>
+<img src="https://habrastorage.org/webt/e7/nx/fk/e7nxfkogewvgkor5u0vgwp2ttew.jpeg"> <a href="https://habr.com/post/420215/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420215#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 07:36:23 GMT</pubDate>
+<dc:creator>bkayne</dc:creator>
+<category>
+<![CDATA[
+Õîñòèíã
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Timeweb
+]]>
+</category>
+<category>
+<![CDATA[
+õîñòèíã
+]]>
+</category>
+<category>
+<![CDATA[
+hosting
+]]>
+</category>
+<category>
+<![CDATA[
+vds
+]]>
+</category>
+<category>
+<![CDATA[
+vps
+]]>
+</category>
+<category>
+<![CDATA[
+âèðòóàëüíûé ñåðâåð
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+[Ïåðåâîä] Ðèñîâàíèå ñ ïîìîùüþ Render Targets â Unreal Engine
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420031/</guid>
+<link>https://habr.com/post/420031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420031</link>
+<description>
+<![CDATA[
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/276/6ee/ee4/2766eeee4fcc87c31919d427c829ee98.gif"></div><br>
+Render target — ýòî, ïî ñóòè, òåêñòóðà, â êîòîðóþ ìîæíî âûïîëíÿòü çàïèñü âî âðåìÿ âûïîëíåíèÿ ïðèëîæåíèÿ. Ñ òî÷êè çðåíèÿ äâèæêà îíè õðàíÿò òàêóþ èíôîðìàöèþ, êàê áàçîâûé öâåò, íîðìàëè è ambient occlusion.<br>
+<br>
+Ñ òî÷êè çðåíèÿ ïîëüçîâàòåëÿ render target â îñíîâíîì èñïîëüçóþòñÿ â êà÷åñòâå ñâîåãî ðîäà äîïîëíèòåëüíîé êàìåðû. Ìîæíî çàäàòü çàõâàò ñöåíû (scene capture) â êàêîé-òî òî÷êå è ñîõðàíÿòü èçîáðàæåíèå â render target. Çàòåì ìîæíî îòîáðàçèòü render target íà ìåøå, íàïðèìåð, äëÿ ñèìóëÿöèè êàìåðû íàáëþäåíèÿ.<br>
+<br>
+Ïîñëå âûïóñêà âåðñèè äâèæêà 4.13 êîìïàíèÿ Epic äîáàâèëà âîçìîæíîñòü îòðèñîâêè ìàòåðèàëîâ íåïîñðåäñòâåííî íà render target ñ ïîìîùüþ áëþïðèíòîâ. Ýòà ôóíêöèÿ ïîçâîëÿåò ñîçäàâàòü ñëîæíûå ýôôåêòû, íàïðèìåð, ñèìóëÿöèþ æèäêîñòè è äåôîðìàöèþ ñíåãà. Çâó÷èò ïîòðÿñàþùå, ïðàâäà? Íî ïðåæäå ÷åì ïåðåõîäèòü ê òàêèì ñëîæíûì ýôôåêòàì, ëó÷øå âñåãî îñâîèòüñÿ ñ ÷åì-òî ïðîñòûì. ×òî ìîæåò áûòü ïðîùå, ÷åì ðèñîâàíèå íà render target?<br>
+<br>
+Â ýòîì òóòîðèàëå âû íàó÷èòåñü ñëåäóþùåìó:<br>
+<br>
+<ul>
+<li>Äèíàìè÷åñêè ñîçäàâàòü render target ñ ïîìîùüþ áëþïðèíòîâ</li>
+<li>Îòîáðàæàòü render target íà ìåøå</li>
+<li>Ðèñîâàòü òåêñòóðó íà render target</li>
+<li>Ìåíÿòü ðàçìåð êèñòè è òåêñòóðó âî âðåìÿ èãðîâîãî ïðîöåññà</li>
+</ul> <a href="https://habr.com/post/420031/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420031#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 07:56:19 GMT</pubDate>
+<dc:creator>PatientZero</dc:creator>
+<category>
+<![CDATA[
+Ðàçðàáîòêà èãð
+]]>
+</category>
+<category>
+<![CDATA[
+Unreal Engine
+]]>
+</category>
+<category>render target</category>
+<category>unreal engine 4</category>
+<category>blueprints</category>
+</item>
+<item>
+<title>
+<![CDATA[
+There's an app for that: àíîíñ Mobius 2018 Moscow
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/419485/</guid>
+<link>https://habr.com/post/419485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=419485</link>
+<description>
+<![CDATA[
+Ïðàâäà ëè, ÷òî ñåé÷àñ äëÿ ëþáîé æèçíåííîé ñèòóàöèè ìîæíî íàéòè ñîîòâåòñòâóþùåå ìîáèëüíîå ïðèëîæåíèå? Ñî÷èíÿÿ àíîíñ êîíôåðåíöèè ïî ìîáèëüíîé ðàçðàáîòêå, ìû ðåøèëè çàìåíèòü âñå ïîäçàãîëîâêè íà èêîíêè ïðèëîæåíèé è ïîñìîòðåòü, íàéäóòñÿ ëè ïîäõîäÿùèå. Ãäå-òî ïîëó÷èëîñü ñîâñåì òî÷íî, ãäå-òî ïðèáëèçèòåëüíî. Åñëè åñòü áîëåå ïîäõîäÿùèå âàðèàíòû — ñîîáùàéòå â êîììåíòàðèÿõ!<br>
+<br>
+À åñëè âû íå ïðîñòî ïîëüçóåòåñü ìîáèëüíûìè ïðèëîæåíèÿìè, íî è ñàìè èõ ðàçðàáàòûâàåòå (õîòü Android, õîòü iOS), òî â äåêàáðå áóäåì ðàäû âèäåòü âàñ íà Mobius, à çäåñü íàïèñàëè, ÷åãî æäàòü:<br>
+<br>
+<img src="https://habrastorage.org/webt/q3/aq/fs/q3aqfstlaugsa2fbukoiubbhsda.png"><br> <a href="https://habr.com/post/419485/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=419485#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 10:34:15 GMT</pubDate>
+<dc:creator>phillennium</dc:creator>
+<category>
+<![CDATA[
+Ðàçðàáîòêà ïîä iOS
+]]>
+</category>
+<category>
+<![CDATA[
+Ðàçðàáîòêà ïîä Android
+]]>
+</category>
+<category>
+<![CDATA[
+Ðàçðàáîòêà ìîáèëüíûõ ïðèëîæåíèé
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè JUG.ru Group
+]]>
+</category>
+<category>
+<![CDATA[
+Mobius
+]]>
+</category>
+<category>
+<![CDATA[
+êîíôåðåíöèÿ
+]]>
+</category>
+<category>
+<![CDATA[
+Android
+]]>
+</category>
+<category>
+<![CDATA[
+iOS
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Ñåìü ïðîáëåì âíåäðåíèÿ Scrum, î êîòîðûõ ìû íå çíàëè
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420265/</guid>
+<link>https://habr.com/post/420265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420265</link>
+<description>
+<![CDATA[
+Ïðèâåò, Õàáð! Ìåíÿ çîâóò Ìàêñèì Ëþòöàó, â Ïðîìñâÿçüáàíêå ÿ ðàáîòàþ product owner’îì. Ïî÷òè ãîä ðàçðàáîòêà íîâîãî èíòåðíåò-áàíêà «Ìîé áèçíåñ» ó íàñ èäåò ïî ôðåéìâîðêó Scrum, è â ñâÿçè ñ ýòèì ÿ óæå óñïåë íàáèòü øèøåê. Â ýòîì ïîñòå ÿ õîòåë áû ðàññêàçàòü î ñàìûõ áîëåçíåííûõ èç íèõ, à òàêæå î òîì, êàêèå ñðåäñòâà íàì â èòîãå ïîìîãëè. ×òîáû âû ñìîãëè èçáåæàòü ïîäîáíûõ íåïðèÿòíîñòåé.<br>
+<br>
+<img src="https://habrastorage.org/getpro/habr/post_images/b5c/655/f76/b5c655f7698c1c7e415e9ddc839f6b8d.png"><br> <a href="https://habr.com/post/420265/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420265#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Wed, 15 Aug 2018 09:41:12 GMT</pubDate>
+<dc:creator>maksitron</dc:creator>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïðîåêòàìè
+]]>
+</category>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïðîäóêòîì
+]]>
+</category>
+<category>
+<![CDATA[
+Óïðàâëåíèå ïåðñîíàëîì
+]]>
+</category>
+<category>
+<![CDATA[
+Agile
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè Ïðîìñâÿçüáàíê
+]]>
+</category>
+<category>
+<![CDATA[
+Scrum
+]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[
+Èììåðñèîííîå îõëàæäåíèå âûñîêîé ìîùíîñòè
+]]>
+</title>
+<guid isPermaLink="true">https://habr.com/post/420183/</guid>
+<link>https://habr.com/post/420183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420183</link>
+<description>
+<![CDATA[
+<img src="https://habrastorage.org/webt/zx/uk/li/zxukliyomgzgk7sr22c4-0zjhm4.png" align="right">Ñîâðåìåííûå ýëåêòðîííûå êîìïîíåíòû ñ êàæäûì ãîäîì ðàáîòàþò âñå áûñòðåå. Ðàñòóò ñêîðîñòè, ðàñòåò ïîòðåáëåíèå è òåïëîâûäåëåíèå. Ñîâðåìåííûå òåíäåíöèè èììåðñèîííîãî îõëàæäåíèÿ ïðîöåññîðîâ è âèäåîêàðò âñå áîëüøå âõîäÿò â íàøó æèçíü.<br>
+<br>
+Íà ðûíêå ïðèñóòñòâóþò ìíîæåñòâî ïðåäëîæåíèé ñèñòåì èììåðñèîííîãî îõëàæäåíèÿ, îäíàêî ïðè ïåðâîì çíàêîìñòâå èõ ïðèíöèïèàëüíûå ðàçëè÷èÿ íå òàê ëåãêî îïðåäåëèòü. Ìû ïðîâåëè ñðàâíåíèå òåõíîëîãèé îïûòíûì ïóòåì è âûÿâèëè èõ íåäîñòàòêè è ïðåèìóùåñòâà.<br> <a href="https://habr.com/post/420183/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420183#habracut">×èòàòü äàëüøå ></a>
+]]>
+</description>
+<pubDate>Tue, 14 Aug 2018 11:57:27 GMT</pubDate>
+<dc:creator>ComBox</dc:creator>
+<category>
+<![CDATA[
+Ïðîèçâîäñòâî è ðàçðàáîòêà ýëåêòðîíèêè
+]]>
+</category>
+<category>
+<![CDATA[
+Âûñîêàÿ ïðîèçâîäèòåëüíîñòü
+]]>
+</category>
+<category>
+<![CDATA[
+Áëîã êîìïàíèè ComBox Technology
+]]>
+</category>
+<category>
+<![CDATA[
+combox
+]]>
+</category>
+<category>
+<![CDATA[
+combox technology
+]]>
+</category>
+<category>
+<![CDATA[
+êîìáîêñ
+]]>
+</category>
+<category>
+<![CDATA[
+èììåðñèîííîå îõëàæäåíèå
+]]>
+</category>
+<category>
+<![CDATA[
+æèäêîñòíîå îõëàæäåíèå
+]]>
+</category>
+<category>
+<![CDATA[
+novec
+]]>
+</category>
+<category>
+<![CDATA[
+novec 3m
+]]>
+</category>
+</item>
+</channel>
+</rss>
